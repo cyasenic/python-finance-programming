@@ -1,0 +1,2 @@
+Author : Cyasenic
+Description : Python code for Automated Trading
